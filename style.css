@@ -1,0 +1,123 @@
+:root {
+    width: 100vw;
+    overflow-x: hidden;
+    /* To hide the x axis scrollbar */
+}
+
+h1 {
+    position: absolute;
+    width: 300px;
+    height: 51px;
+    left: 128px;
+    top: 100px;
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h3 {
+    position: absolute;
+    width: 523px;
+    height: 175px;
+    left: 128px;
+    top: 314px;
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 50px;
+
+}
+
+p {
+    position: absolute;
+    width: 441px;
+    height: 101px;
+    left: 133px;
+    top: 495px;
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #838383
+}
+
+h4 {
+    position: absolute;
+
+    width: 532px;
+    height: 37px;
+    left: 454px;
+    top: 908px;
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+
+}
+
+
+.rectangle {
+    position: relative;
+    width: 329px;
+    height: 382px;
+    left: 50px;
+    top: 1026px;
+
+    background: #F9F9F9;
+    box-shadow: 0px 4px 21px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+}
+
+h5 {
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #000000;
+
+}
+
+h6 {
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #000000;
+
+}
+
+.banner {
+    position: absolute;
+    left: 54.51%;
+    right: 8.3%;
+    top: 21.59%;
+    bottom: 49.9%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: auto;
+
+
+}
